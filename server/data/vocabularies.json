@@ -2325,7 +2325,7 @@
     },
     {
         "_id": "tags",
-        "display_name": "Tagas",
+        "display_name": "Tags",
         "type": "manageable",
         "unique_field": "qcode",
         "selection_type": "do not show",
